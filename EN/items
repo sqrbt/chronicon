@@ -1186,7 +1186,9 @@ item_858_name="Nutritious Ash"
 item_858_flavor="Used to grow Ancient Beasts."
 item_859_name="Spirit Guard"
 item_859_flavor="Those strong in spirit shall overcome."
-
+item_860_name="Artifact Fragments"
+item_860_flavor="Bring these to Diana Jones for great rewards."
+item_861_name="Golden Crystals"
 [SETS]
 sunandmoon_name="Sun & Moon"
 sunandmoon_2pbonus="When casting a Frost skill, bonus Fire damage is multiplied by 3. When casting a Fire skill, bonus Frost damage is multiplied by 3. This effect lasts 7 seconds."

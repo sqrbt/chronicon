@@ -424,7 +424,7 @@ monster_305_lore="A root that has adapted to its environment, producing cinders 
 monster_306_name="Ice Lancer"
 monster_306_lore="It can cut a man in half as easily as it shifts through matter to teleport behind its foes. Nothing personal, kid."
 monster_307_name="Living Glacier"
-monster_307_lore="A living, walking, angry glacier."
+monster_307_lore="A living angry glacier."
 [BOSS]
 monster_500_name="High Priestess Medella"
 monster_500_title="The Blood Queen"

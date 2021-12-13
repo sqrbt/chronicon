@@ -1,4 +1,6 @@
 [BUFFS]
+buff_317_name="Chronicon's Anniversary!"
+buff_317_txt="Celebrate Chronicon's anniversary with +AMOUNT% Bonus Experience and Magic Find!"
 buff_316_name="Eternal Servitude"
 buff_316_txt="Companion Use effects cost no resources and have no cooldowns."
 buff_2062_name="Curse of Doom"

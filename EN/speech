@@ -292,6 +292,7 @@ speech_zombie_3="Braaaiinsss..."
 speech_zombie_4="Graaahhhh..!"
 speech_zombie_5="Raaahhh..!"
 speech_zombie_6="Uuuhhhh..."
+speech_exp_beast_intro="The Beast must not be awoken!"
 [MISC]
 speech_pet_goblin_1="Hey, smelly."
 speech_pet_goblin_2="Have you met my cousin?"
